@@ -1,0 +1,12 @@
+Author: "Narayanan Raghupathy"
+date: "2018-03-01"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: narayananr/bookdown_example
+url: 'http://narayananr.github.io/'
+description: "Introduction to bookdown book."
+---
+
